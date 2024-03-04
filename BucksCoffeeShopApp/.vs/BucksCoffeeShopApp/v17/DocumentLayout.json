@@ -1,0 +1,547 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD40E264-F6D7-4DFC-9B20-31C8AEDE053E}|AfterRefactor.Tests\\AfterRefactor.Tests.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\buckscoffeeshopapp\\afterrefactor.tests\\afterrefactor.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DD40E264-F6D7-4DFC-9B20-31C8AEDE053E}|AfterRefactor.Tests\\AfterRefactor.Tests.csproj|solutionrelative:afterrefactor.tests\\afterrefactor.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD40E264-F6D7-4DFC-9B20-31C8AEDE053E}|AfterRefactor.Tests\\AfterRefactor.Tests.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\buckscoffeeshopapp\\afterrefactor.tests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD40E264-F6D7-4DFC-9B20-31C8AEDE053E}|AfterRefactor.Tests\\AfterRefactor.Tests.csproj|solutionrelative:afterrefactor.tests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD40E264-F6D7-4DFC-9B20-31C8AEDE053E}|AfterRefactor.Tests\\AfterRefactor.Tests.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\buckscoffeeshopapp\\afterrefactor.tests\\services\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD40E264-F6D7-4DFC-9B20-31C8AEDE053E}|AfterRefactor.Tests\\AfterRefactor.Tests.csproj|solutionrelative:afterrefactor.tests\\services\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8698335-97EA-44DA-BF5E-5FEC7AFDDA59}|AfterRefactor\\AfterRefactor.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\buckscoffeeshopapp\\afterrefactor\\helpers\\bucksurlextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8698335-97EA-44DA-BF5E-5FEC7AFDDA59}|AfterRefactor\\AfterRefactor.csproj|solutionrelative:afterrefactor\\helpers\\bucksurlextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8698335-97EA-44DA-BF5E-5FEC7AFDDA59}|AfterRefactor\\AfterRefactor.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\buckscoffeeshopapp\\afterrefactor\\middleware\\htmlcompress\\htmlshrinkstream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8698335-97EA-44DA-BF5E-5FEC7AFDDA59}|AfterRefactor\\AfterRefactor.csproj|solutionrelative:afterrefactor\\middleware\\htmlcompress\\htmlshrinkstream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8698335-97EA-44DA-BF5E-5FEC7AFDDA59}|AfterRefactor\\AfterRefactor.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\buckscoffeeshopapp\\afterrefactor\\middleware\\htmlcompress\\htmlshrinkmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8698335-97EA-44DA-BF5E-5FEC7AFDDA59}|AfterRefactor\\AfterRefactor.csproj|solutionrelative:afterrefactor\\middleware\\htmlcompress\\htmlshrinkmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8698335-97EA-44DA-BF5E-5FEC7AFDDA59}|AfterRefactor\\AfterRefactor.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\buckscoffeeshopapp\\afterrefactor\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8698335-97EA-44DA-BF5E-5FEC7AFDDA59}|AfterRefactor\\AfterRefactor.csproj|solutionrelative:afterrefactor\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8698335-97EA-44DA-BF5E-5FEC7AFDDA59}|AfterRefactor\\AfterRefactor.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\buckscoffeeshopapp\\afterrefactor\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8698335-97EA-44DA-BF5E-5FEC7AFDDA59}|AfterRefactor\\AfterRefactor.csproj|solutionrelative:afterrefactor\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8698335-97EA-44DA-BF5E-5FEC7AFDDA59}|AfterRefactor\\AfterRefactor.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\buckscoffeeshopapp\\afterrefactor\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8698335-97EA-44DA-BF5E-5FEC7AFDDA59}|AfterRefactor\\AfterRefactor.csproj|solutionrelative:afterrefactor\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8698335-97EA-44DA-BF5E-5FEC7AFDDA59}|AfterRefactor\\AfterRefactor.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\buckscoffeeshopapp\\afterrefactor\\services\\icoffeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8698335-97EA-44DA-BF5E-5FEC7AFDDA59}|AfterRefactor\\AfterRefactor.csproj|solutionrelative:afterrefactor\\services\\icoffeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8698335-97EA-44DA-BF5E-5FEC7AFDDA59}|AfterRefactor\\AfterRefactor.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\buckscoffeeshopapp\\afterrefactor\\services\\icachedcoffeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8698335-97EA-44DA-BF5E-5FEC7AFDDA59}|AfterRefactor\\AfterRefactor.csproj|solutionrelative:afterrefactor\\services\\icachedcoffeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8698335-97EA-44DA-BF5E-5FEC7AFDDA59}|AfterRefactor\\AfterRefactor.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\buckscoffeeshopapp\\afterrefactor\\services\\ibucksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8698335-97EA-44DA-BF5E-5FEC7AFDDA59}|AfterRefactor\\AfterRefactor.csproj|solutionrelative:afterrefactor\\services\\ibucksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8698335-97EA-44DA-BF5E-5FEC7AFDDA59}|AfterRefactor\\AfterRefactor.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\buckscoffeeshopapp\\afterrefactor\\services\\coffeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8698335-97EA-44DA-BF5E-5FEC7AFDDA59}|AfterRefactor\\AfterRefactor.csproj|solutionrelative:afterrefactor\\services\\coffeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8698335-97EA-44DA-BF5E-5FEC7AFDDA59}|AfterRefactor\\AfterRefactor.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\buckscoffeeshopapp\\afterrefactor\\services\\cachecoffeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8698335-97EA-44DA-BF5E-5FEC7AFDDA59}|AfterRefactor\\AfterRefactor.csproj|solutionrelative:afterrefactor\\services\\cachecoffeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8698335-97EA-44DA-BF5E-5FEC7AFDDA59}|AfterRefactor\\AfterRefactor.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\buckscoffeeshopapp\\afterrefactor\\services\\bucksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8698335-97EA-44DA-BF5E-5FEC7AFDDA59}|AfterRefactor\\AfterRefactor.csproj|solutionrelative:afterrefactor\\services\\bucksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8698335-97EA-44DA-BF5E-5FEC7AFDDA59}|AfterRefactor\\AfterRefactor.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\buckscoffeeshopapp\\afterrefactor\\taghelpers\\offcanvasbodytaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8698335-97EA-44DA-BF5E-5FEC7AFDDA59}|AfterRefactor\\AfterRefactor.csproj|solutionrelative:afterrefactor\\taghelpers\\offcanvasbodytaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8698335-97EA-44DA-BF5E-5FEC7AFDDA59}|AfterRefactor\\AfterRefactor.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\buckscoffeeshopapp\\afterrefactor\\taghelpers\\offcanvastaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8698335-97EA-44DA-BF5E-5FEC7AFDDA59}|AfterRefactor\\AfterRefactor.csproj|solutionrelative:afterrefactor\\taghelpers\\offcanvastaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8698335-97EA-44DA-BF5E-5FEC7AFDDA59}|AfterRefactor\\AfterRefactor.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\buckscoffeeshopapp\\afterrefactor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8698335-97EA-44DA-BF5E-5FEC7AFDDA59}|AfterRefactor\\AfterRefactor.csproj|solutionrelative:afterrefactor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1FAE22-1B4A-46F0-B3DB-3CEBD6612B5B}|BeforeRefactor\\BeforeRefactor.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\buckscoffeeshopapp\\beforerefactor\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1FAE22-1B4A-46F0-B3DB-3CEBD6612B5B}|BeforeRefactor\\BeforeRefactor.csproj|solutionrelative:beforerefactor\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1FAE22-1B4A-46F0-B3DB-3CEBD6612B5B}|BeforeRefactor\\BeforeRefactor.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\buckscoffeeshopapp\\beforerefactor\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1FAE22-1B4A-46F0-B3DB-3CEBD6612B5B}|BeforeRefactor\\BeforeRefactor.csproj|solutionrelative:beforerefactor\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1FAE22-1B4A-46F0-B3DB-3CEBD6612B5B}|BeforeRefactor\\BeforeRefactor.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\buckscoffeeshopapp\\beforerefactor\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1FAE22-1B4A-46F0-B3DB-3CEBD6612B5B}|BeforeRefactor\\BeforeRefactor.csproj|solutionrelative:beforerefactor\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1FAE22-1B4A-46F0-B3DB-3CEBD6612B5B}|BeforeRefactor\\BeforeRefactor.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\buckscoffeeshopapp\\beforerefactor\\infrastructure\\ibuckscoffeeshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1FAE22-1B4A-46F0-B3DB-3CEBD6612B5B}|BeforeRefactor\\BeforeRefactor.csproj|solutionrelative:beforerefactor\\infrastructure\\ibuckscoffeeshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1FAE22-1B4A-46F0-B3DB-3CEBD6612B5B}|BeforeRefactor\\BeforeRefactor.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\buckscoffeeshopapp\\beforerefactor\\infrastructure\\buckscoffeeshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1FAE22-1B4A-46F0-B3DB-3CEBD6612B5B}|BeforeRefactor\\BeforeRefactor.csproj|solutionrelative:beforerefactor\\infrastructure\\buckscoffeeshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1FAE22-1B4A-46F0-B3DB-3CEBD6612B5B}|BeforeRefactor\\BeforeRefactor.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\buckscoffeeshopapp\\beforerefactor\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1FAE22-1B4A-46F0-B3DB-3CEBD6612B5B}|BeforeRefactor\\BeforeRefactor.csproj|solutionrelative:beforerefactor\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1FAE22-1B4A-46F0-B3DB-3CEBD6612B5B}|BeforeRefactor\\BeforeRefactor.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\buckscoffeeshopapp\\beforerefactor\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1FAE22-1B4A-46F0-B3DB-3CEBD6612B5B}|BeforeRefactor\\BeforeRefactor.csproj|solutionrelative:beforerefactor\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1FAE22-1B4A-46F0-B3DB-3CEBD6612B5B}|BeforeRefactor\\BeforeRefactor.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\buckscoffeeshopapp\\beforerefactor\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1FAE22-1B4A-46F0-B3DB-3CEBD6612B5B}|BeforeRefactor\\BeforeRefactor.csproj|solutionrelative:beforerefactor\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1FAE22-1B4A-46F0-B3DB-3CEBD6612B5B}|BeforeRefactor\\BeforeRefactor.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\buckscoffeeshopapp\\beforerefactor\\services\\coffeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1FAE22-1B4A-46F0-B3DB-3CEBD6612B5B}|BeforeRefactor\\BeforeRefactor.csproj|solutionrelative:beforerefactor\\services\\coffeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1FAE22-1B4A-46F0-B3DB-3CEBD6612B5B}|BeforeRefactor\\BeforeRefactor.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\buckscoffeeshopapp\\beforerefactor\\services\\icoffeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1FAE22-1B4A-46F0-B3DB-3CEBD6612B5B}|BeforeRefactor\\BeforeRefactor.csproj|solutionrelative:beforerefactor\\services\\icoffeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1FAE22-1B4A-46F0-B3DB-3CEBD6612B5B}|BeforeRefactor\\BeforeRefactor.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\buckscoffeeshopapp\\beforerefactor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1FAE22-1B4A-46F0-B3DB-3CEBD6612B5B}|BeforeRefactor\\BeforeRefactor.csproj|solutionrelative:beforerefactor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8698335-97EA-44DA-BF5E-5FEC7AFDDA59}|AfterRefactor\\AfterRefactor.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\buckscoffeeshopapp\\afterrefactor\\afterrefactor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A8698335-97EA-44DA-BF5E-5FEC7AFDDA59}|AfterRefactor\\AfterRefactor.csproj|solutionrelative:afterrefactor\\afterrefactor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1FAE22-1B4A-46F0-B3DB-3CEBD6612B5B}|BeforeRefactor\\BeforeRefactor.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\buckscoffeeshopapp\\beforerefactor\\beforerefactor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B1FAE22-1B4A-46F0-B3DB-3CEBD6612B5B}|BeforeRefactor\\BeforeRefactor.csproj|solutionrelative:beforerefactor\\beforerefactor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BucksUrlExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor\\Helpers\\BucksUrlExtensions.cs",
+              "RelativeDocumentMoniker": "AfterRefactor\\Helpers\\BucksUrlExtensions.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor\\Helpers\\BucksUrlExtensions.cs",
+              "RelativeToolTip": "AfterRefactor\\Helpers\\BucksUrlExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:33:48.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HtmlShrinkStream.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor\\Middleware\\HtmlCompress\\HtmlShrinkStream.cs",
+              "RelativeDocumentMoniker": "AfterRefactor\\Middleware\\HtmlCompress\\HtmlShrinkStream.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor\\Middleware\\HtmlCompress\\HtmlShrinkStream.cs",
+              "RelativeToolTip": "AfterRefactor\\Middleware\\HtmlCompress\\HtmlShrinkStream.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA8wAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:33:43.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HtmlShrinkMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor\\Middleware\\HtmlCompress\\HtmlShrinkMiddleware.cs",
+              "RelativeDocumentMoniker": "AfterRefactor\\Middleware\\HtmlCompress\\HtmlShrinkMiddleware.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor\\Middleware\\HtmlCompress\\HtmlShrinkMiddleware.cs",
+              "RelativeToolTip": "AfterRefactor\\Middleware\\HtmlCompress\\HtmlShrinkMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:33:21.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "AfterRefactor\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "AfterRefactor\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:33:16.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "AfterRefactor\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "AfterRefactor\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:33:13.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor.Tests\\Usings.cs",
+              "RelativeDocumentMoniker": "AfterRefactor.Tests\\Usings.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor.Tests\\Usings.cs",
+              "RelativeToolTip": "AfterRefactor.Tests\\Usings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:31:47.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor.Tests\\Services\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "AfterRefactor.Tests\\Services\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor.Tests\\Services\\UnitTest1.cs",
+              "RelativeToolTip": "AfterRefactor.Tests\\Services\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:31:49.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AfterRefactor.Tests",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor.Tests\\AfterRefactor.Tests.csproj",
+              "RelativeDocumentMoniker": "AfterRefactor.Tests\\AfterRefactor.Tests.csproj",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor.Tests\\AfterRefactor.Tests.csproj",
+              "RelativeToolTip": "AfterRefactor.Tests\\AfterRefactor.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-04T12:32:12.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "AfterRefactor\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "AfterRefactor\\Pages\\Error.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:33:09.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICoffeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor\\Services\\ICoffeeService.cs",
+              "RelativeDocumentMoniker": "AfterRefactor\\Services\\ICoffeeService.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor\\Services\\ICoffeeService.cs",
+              "RelativeToolTip": "AfterRefactor\\Services\\ICoffeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:32:50.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICachedCoffeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor\\Services\\ICachedCoffeeService.cs",
+              "RelativeDocumentMoniker": "AfterRefactor\\Services\\ICachedCoffeeService.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor\\Services\\ICachedCoffeeService.cs",
+              "RelativeToolTip": "AfterRefactor\\Services\\ICachedCoffeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:32:49.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBucksDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor\\Services\\IBucksDbContext.cs",
+              "RelativeDocumentMoniker": "AfterRefactor\\Services\\IBucksDbContext.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor\\Services\\IBucksDbContext.cs",
+              "RelativeToolTip": "AfterRefactor\\Services\\IBucksDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:32:47.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CoffeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor\\Services\\CoffeeService.cs",
+              "RelativeDocumentMoniker": "AfterRefactor\\Services\\CoffeeService.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor\\Services\\CoffeeService.cs",
+              "RelativeToolTip": "AfterRefactor\\Services\\CoffeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:32:43.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CacheCoffeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor\\Services\\CacheCoffeeService.cs",
+              "RelativeDocumentMoniker": "AfterRefactor\\Services\\CacheCoffeeService.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor\\Services\\CacheCoffeeService.cs",
+              "RelativeToolTip": "AfterRefactor\\Services\\CacheCoffeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:32:39.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BucksDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor\\Services\\BucksDbContext.cs",
+              "RelativeDocumentMoniker": "AfterRefactor\\Services\\BucksDbContext.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor\\Services\\BucksDbContext.cs",
+              "RelativeToolTip": "AfterRefactor\\Services\\BucksDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:32:36.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OffCanvasBodyTagHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor\\TagHelpers\\OffCanvasBodyTagHelper.cs",
+              "RelativeDocumentMoniker": "AfterRefactor\\TagHelpers\\OffCanvasBodyTagHelper.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor\\TagHelpers\\OffCanvasBodyTagHelper.cs",
+              "RelativeToolTip": "AfterRefactor\\TagHelpers\\OffCanvasBodyTagHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:32:31.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OffCanvasTagHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor\\TagHelpers\\OffCanvasTagHelper.cs",
+              "RelativeDocumentMoniker": "AfterRefactor\\TagHelpers\\OffCanvasTagHelper.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor\\TagHelpers\\OffCanvasTagHelper.cs",
+              "RelativeToolTip": "AfterRefactor\\TagHelpers\\OffCanvasTagHelper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:32:24.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor\\Program.cs",
+              "RelativeDocumentMoniker": "AfterRefactor\\Program.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor\\Program.cs",
+              "RelativeToolTip": "AfterRefactor\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:31:56.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\BeforeRefactor\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "BeforeRefactor\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\BeforeRefactor\\Entities\\Product.cs",
+              "RelativeToolTip": "BeforeRefactor\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:31:39.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\BeforeRefactor\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "BeforeRefactor\\Entities\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\BeforeRefactor\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "BeforeRefactor\\Entities\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:31:37.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\BeforeRefactor\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "BeforeRefactor\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\BeforeRefactor\\Entities\\Order.cs",
+              "RelativeToolTip": "BeforeRefactor\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:31:36.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IBucksCoffeeShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\BeforeRefactor\\Infrastructure\\IBucksCoffeeShopContext.cs",
+              "RelativeDocumentMoniker": "BeforeRefactor\\Infrastructure\\IBucksCoffeeShopContext.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\BeforeRefactor\\Infrastructure\\IBucksCoffeeShopContext.cs",
+              "RelativeToolTip": "BeforeRefactor\\Infrastructure\\IBucksCoffeeShopContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:31:30.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BucksCoffeeShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\BeforeRefactor\\Infrastructure\\BucksCoffeeShopContext.cs",
+              "RelativeDocumentMoniker": "BeforeRefactor\\Infrastructure\\BucksCoffeeShopContext.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\BeforeRefactor\\Infrastructure\\BucksCoffeeShopContext.cs",
+              "RelativeToolTip": "BeforeRefactor\\Infrastructure\\BucksCoffeeShopContext.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAswBQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:31:20.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\BeforeRefactor\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "BeforeRefactor\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\BeforeRefactor\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "BeforeRefactor\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:31:17.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\BeforeRefactor\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "BeforeRefactor\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\BeforeRefactor\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "BeforeRefactor\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:31:13.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\BeforeRefactor\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "BeforeRefactor\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\BeforeRefactor\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "BeforeRefactor\\Pages\\Error.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:31:09.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CoffeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\BeforeRefactor\\Services\\CoffeeService.cs",
+              "RelativeDocumentMoniker": "BeforeRefactor\\Services\\CoffeeService.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\BeforeRefactor\\Services\\CoffeeService.cs",
+              "RelativeToolTip": "BeforeRefactor\\Services\\CoffeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:30:53.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICoffeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\BeforeRefactor\\Services\\ICoffeeService.cs",
+              "RelativeDocumentMoniker": "BeforeRefactor\\Services\\ICoffeeService.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\BeforeRefactor\\Services\\ICoffeeService.cs",
+              "RelativeToolTip": "BeforeRefactor\\Services\\ICoffeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:30:50.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\BeforeRefactor\\Program.cs",
+              "RelativeDocumentMoniker": "BeforeRefactor\\Program.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\BeforeRefactor\\Program.cs",
+              "RelativeToolTip": "BeforeRefactor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:30:31.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AfterRefactor",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor\\AfterRefactor.csproj",
+              "RelativeDocumentMoniker": "AfterRefactor\\AfterRefactor.csproj",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\AfterRefactor\\AfterRefactor.csproj",
+              "RelativeToolTip": "AfterRefactor\\AfterRefactor.csproj",
+              "ViewState": "AQIAADYAAAAAAAAAAAAwwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-04T12:29:42.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BeforeRefactor",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\BeforeRefactor\\BeforeRefactor.csproj",
+              "RelativeDocumentMoniker": "BeforeRefactor\\BeforeRefactor.csproj",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\BucksCoffeeShopApp\\BeforeRefactor\\BeforeRefactor.csproj",
+              "RelativeToolTip": "BeforeRefactor\\BeforeRefactor.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-04T12:28:15.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EmojiMiddleware\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{994D356E-5E53-4247-8DEA-F87BFE4E5C26}|EmojiMiddleware\\EmojiMiddleware.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\emojimiddleware\\emojimiddleware\\infrastructure\\emojimiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994D356E-5E53-4247-8DEA-F87BFE4E5C26}|EmojiMiddleware\\EmojiMiddleware.csproj|solutionrelative:emojimiddleware\\infrastructure\\emojimiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994D356E-5E53-4247-8DEA-F87BFE4E5C26}|EmojiMiddleware\\EmojiMiddleware.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\emojimiddleware\\emojimiddleware\\infrastructure\\emojistream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994D356E-5E53-4247-8DEA-F87BFE4E5C26}|EmojiMiddleware\\EmojiMiddleware.csproj|solutionrelative:emojimiddleware\\infrastructure\\emojistream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994D356E-5E53-4247-8DEA-F87BFE4E5C26}|EmojiMiddleware\\EmojiMiddleware.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\emojimiddleware\\emojimiddleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994D356E-5E53-4247-8DEA-F87BFE4E5C26}|EmojiMiddleware\\EmojiMiddleware.csproj|solutionrelative:emojimiddleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994D356E-5E53-4247-8DEA-F87BFE4E5C26}|EmojiMiddleware\\EmojiMiddleware.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\emojimiddleware\\emojimiddleware\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994D356E-5E53-4247-8DEA-F87BFE4E5C26}|EmojiMiddleware\\EmojiMiddleware.csproj|solutionrelative:emojimiddleware\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994D356E-5E53-4247-8DEA-F87BFE4E5C26}|EmojiMiddleware\\EmojiMiddleware.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\emojimiddleware\\emojimiddleware\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994D356E-5E53-4247-8DEA-F87BFE4E5C26}|EmojiMiddleware\\EmojiMiddleware.csproj|solutionrelative:emojimiddleware\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994D356E-5E53-4247-8DEA-F87BFE4E5C26}|EmojiMiddleware\\EmojiMiddleware.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\emojimiddleware\\emojimiddleware\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994D356E-5E53-4247-8DEA-F87BFE4E5C26}|EmojiMiddleware\\EmojiMiddleware.csproj|solutionrelative:emojimiddleware\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994D356E-5E53-4247-8DEA-F87BFE4E5C26}|EmojiMiddleware\\EmojiMiddleware.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\emojimiddleware\\emojimiddleware\\emojimiddleware.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{994D356E-5E53-4247-8DEA-F87BFE4E5C26}|EmojiMiddleware\\EmojiMiddleware.csproj|solutionrelative:emojimiddleware\\emojimiddleware.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 280,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EmojiMiddleware\\EmojiMiddleware\\Program.cs",
+              "RelativeDocumentMoniker": "EmojiMiddleware\\Program.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EmojiMiddleware\\EmojiMiddleware\\Program.cs",
+              "RelativeToolTip": "EmojiMiddleware\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:12:30.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EmojiMiddleware\\EmojiMiddleware\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "EmojiMiddleware\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EmojiMiddleware\\EmojiMiddleware\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "EmojiMiddleware\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:12:01.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EmojiMiddleware\\EmojiMiddleware\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "EmojiMiddleware\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EmojiMiddleware\\EmojiMiddleware\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "EmojiMiddleware\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:11:52.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EmojiMiddleware\\EmojiMiddleware\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "EmojiMiddleware\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EmojiMiddleware\\EmojiMiddleware\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "EmojiMiddleware\\Pages\\Error.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:11:39.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmojiStream.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EmojiMiddleware\\EmojiMiddleware\\Infrastructure\\EmojiStream.cs",
+              "RelativeDocumentMoniker": "EmojiMiddleware\\Infrastructure\\EmojiStream.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EmojiMiddleware\\EmojiMiddleware\\Infrastructure\\EmojiStream.cs",
+              "RelativeToolTip": "EmojiMiddleware\\Infrastructure\\EmojiStream.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:10:54.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmojiMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EmojiMiddleware\\EmojiMiddleware\\Infrastructure\\EmojiMiddleware.cs",
+              "RelativeDocumentMoniker": "EmojiMiddleware\\Infrastructure\\EmojiMiddleware.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EmojiMiddleware\\EmojiMiddleware\\Infrastructure\\EmojiMiddleware.cs",
+              "RelativeToolTip": "EmojiMiddleware\\Infrastructure\\EmojiMiddleware.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:10:47.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmojiMiddleware",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EmojiMiddleware\\EmojiMiddleware\\EmojiMiddleware.csproj",
+              "RelativeDocumentMoniker": "EmojiMiddleware\\EmojiMiddleware.csproj",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EmojiMiddleware\\EmojiMiddleware\\EmojiMiddleware.csproj",
+              "RelativeToolTip": "EmojiMiddleware\\EmojiMiddleware.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-01T20:08:03.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,478 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\entityframeworkpatterns\\entityframeworkpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|solutionrelative:entityframeworkpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\entityframeworkpatterns\\entityframeworkpatterns\\specificationpattern\\specificationbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|solutionrelative:entityframeworkpatterns\\specificationpattern\\specificationbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\entityframeworkpatterns\\entityframeworkpatterns\\specificationpattern\\specification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|solutionrelative:entityframeworkpatterns\\specificationpattern\\specification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\entityframeworkpatterns\\entityframeworkpatterns\\specificationpattern\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|solutionrelative:entityframeworkpatterns\\specificationpattern\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\entityframeworkpatterns\\entityframeworkpatterns\\specificationpattern\\basespecificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|solutionrelative:entityframeworkpatterns\\specificationpattern\\basespecificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\entityframeworkpatterns\\entityframeworkpatterns\\specificationpattern\\specificationlist\\getwesternrides.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|solutionrelative:entityframeworkpatterns\\specificationpattern\\specificationlist\\getwesternrides.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\entityframeworkpatterns\\entityframeworkpatterns\\specificationpattern\\specificationlist\\getallattractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|solutionrelative:entityframeworkpatterns\\specificationpattern\\specificationlist\\getallattractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\entityframeworkpatterns\\entityframeworkpatterns\\repository-uow\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|solutionrelative:entityframeworkpatterns\\repository-uow\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\entityframeworkpatterns\\entityframeworkpatterns\\repository-uow\\ilocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|solutionrelative:entityframeworkpatterns\\repository-uow\\ilocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\entityframeworkpatterns\\entityframeworkpatterns\\repository-uow\\iattractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|solutionrelative:entityframeworkpatterns\\repository-uow\\iattractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\entityframeworkpatterns\\entityframeworkpatterns\\repository-uow\\attractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|solutionrelative:entityframeworkpatterns\\repository-uow\\attractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\entityframeworkpatterns\\entityframeworkpatterns\\repository-uow\\attractionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|solutionrelative:entityframeworkpatterns\\repository-uow\\attractionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\entityframeworkpatterns\\entityframeworkpatterns\\extensionmethods\\locationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|solutionrelative:entityframeworkpatterns\\extensionmethods\\locationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\entityframeworkpatterns\\entityframeworkpatterns\\extensionmethods\\attractionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|solutionrelative:entityframeworkpatterns\\extensionmethods\\attractionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\entityframeworkpatterns\\entityframeworkpatterns\\datacontext\\themeparkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|solutionrelative:entityframeworkpatterns\\datacontext\\themeparkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\entityframeworkpatterns\\entityframeworkpatterns\\datacontext\\models\\attractionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|solutionrelative:entityframeworkpatterns\\datacontext\\models\\attractionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\entityframeworkpatterns\\entityframeworkpatterns\\datacontext\\models\\attraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|solutionrelative:entityframeworkpatterns\\datacontext\\models\\attraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\entityframeworkpatterns\\entityframeworkpatterns\\pages\\specification.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|solutionrelative:entityframeworkpatterns\\pages\\specification.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\entityframeworkpatterns\\entityframeworkpatterns\\pages\\repository-uow.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|solutionrelative:entityframeworkpatterns\\pages\\repository-uow.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\entityframeworkpatterns\\entityframeworkpatterns\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|solutionrelative:entityframeworkpatterns\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\entityframeworkpatterns\\entityframeworkpatterns\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|solutionrelative:entityframeworkpatterns\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\entityframeworkpatterns\\entityframeworkpatterns\\pages\\extensionmethods.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|solutionrelative:entityframeworkpatterns\\pages\\extensionmethods.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\entityframeworkpatterns\\entityframeworkpatterns\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|solutionrelative:entityframeworkpatterns\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\entityframeworkpatterns\\entityframeworkpatterns\\datacontext\\ithemeparkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|solutionrelative:entityframeworkpatterns\\datacontext\\ithemeparkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\entityframeworkpatterns\\entityframeworkpatterns\\datacontext\\models\\locationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|solutionrelative:entityframeworkpatterns\\datacontext\\models\\locationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\entityframeworkpatterns\\entityframeworkpatterns\\datacontext\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|solutionrelative:entityframeworkpatterns\\datacontext\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\entityframeworkpatterns\\entityframeworkpatterns\\entityframeworkpatterns.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ECEA1584-FC9F-46A2-BDB1-7BF001D8116E}|EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj|solutionrelative:entityframeworkpatterns\\entityframeworkpatterns.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 280,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpecificationBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\SpecificationPattern\\SpecificationBuilder.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkPatterns\\SpecificationPattern\\SpecificationBuilder.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\SpecificationPattern\\SpecificationBuilder.cs",
+              "RelativeToolTip": "EntityFrameworkPatterns\\SpecificationPattern\\SpecificationBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:56:35.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Specification.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\SpecificationPattern\\Specification.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkPatterns\\SpecificationPattern\\Specification.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\SpecificationPattern\\Specification.cs",
+              "RelativeToolTip": "EntityFrameworkPatterns\\SpecificationPattern\\Specification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:56:29.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISpecification.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\SpecificationPattern\\ISpecification.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkPatterns\\SpecificationPattern\\ISpecification.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\SpecificationPattern\\ISpecification.cs",
+              "RelativeToolTip": "EntityFrameworkPatterns\\SpecificationPattern\\ISpecification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:56:21.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseSpecificationService.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\SpecificationPattern\\BaseSpecificationService.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkPatterns\\SpecificationPattern\\BaseSpecificationService.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\SpecificationPattern\\BaseSpecificationService.cs",
+              "RelativeToolTip": "EntityFrameworkPatterns\\SpecificationPattern\\BaseSpecificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:55:58.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetWesternRides.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\SpecificationPattern\\SpecificationList\\GetWesternRides.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkPatterns\\SpecificationPattern\\SpecificationList\\GetWesternRides.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\SpecificationPattern\\SpecificationList\\GetWesternRides.cs",
+              "RelativeToolTip": "EntityFrameworkPatterns\\SpecificationPattern\\SpecificationList\\GetWesternRides.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:55:50.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAllAttractions.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\SpecificationPattern\\SpecificationList\\GetAllAttractions.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkPatterns\\SpecificationPattern\\SpecificationList\\GetAllAttractions.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\SpecificationPattern\\SpecificationList\\GetAllAttractions.cs",
+              "RelativeToolTip": "EntityFrameworkPatterns\\SpecificationPattern\\SpecificationList\\GetAllAttractions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:55:43.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LocationService.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\Repository-UOW\\LocationService.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkPatterns\\Repository-UOW\\LocationService.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\Repository-UOW\\LocationService.cs",
+              "RelativeToolTip": "EntityFrameworkPatterns\\Repository-UOW\\LocationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:55:22.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ILocationService.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\Repository-UOW\\ILocationService.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkPatterns\\Repository-UOW\\ILocationService.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\Repository-UOW\\ILocationService.cs",
+              "RelativeToolTip": "EntityFrameworkPatterns\\Repository-UOW\\ILocationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:55:18.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAttractionService.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\Repository-UOW\\IAttractionService.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkPatterns\\Repository-UOW\\IAttractionService.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\Repository-UOW\\IAttractionService.cs",
+              "RelativeToolTip": "EntityFrameworkPatterns\\Repository-UOW\\IAttractionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:54:45.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AttractionService.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\Repository-UOW\\AttractionService.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkPatterns\\Repository-UOW\\AttractionService.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\Repository-UOW\\AttractionService.cs",
+              "RelativeToolTip": "EntityFrameworkPatterns\\Repository-UOW\\AttractionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:53:53.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AttractionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\Repository-UOW\\AttractionRepository.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkPatterns\\Repository-UOW\\AttractionRepository.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\Repository-UOW\\AttractionRepository.cs",
+              "RelativeToolTip": "EntityFrameworkPatterns\\Repository-UOW\\AttractionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:53:19.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Specification.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\Pages\\Specification.cshtml.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkPatterns\\Pages\\Specification.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\Pages\\Specification.cshtml.cs",
+              "RelativeToolTip": "EntityFrameworkPatterns\\Pages\\Specification.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:53:02.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Repository-UoW.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\Pages\\Repository-UoW.cshtml.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkPatterns\\Pages\\Repository-UoW.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\Pages\\Repository-UoW.cshtml.cs",
+              "RelativeToolTip": "EntityFrameworkPatterns\\Pages\\Repository-UoW.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:52:56.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkPatterns\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "EntityFrameworkPatterns\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:52:53.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkPatterns\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "EntityFrameworkPatterns\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:52:47.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ExtensionMethods.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\Pages\\ExtensionMethods.cshtml.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkPatterns\\Pages\\ExtensionMethods.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\Pages\\ExtensionMethods.cshtml.cs",
+              "RelativeToolTip": "EntityFrameworkPatterns\\Pages\\ExtensionMethods.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:52:30.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkPatterns\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "EntityFrameworkPatterns\\Pages\\Error.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:52:19.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LocationExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\ExtensionMethods\\LocationExtensions.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkPatterns\\ExtensionMethods\\LocationExtensions.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\ExtensionMethods\\LocationExtensions.cs",
+              "RelativeToolTip": "EntityFrameworkPatterns\\ExtensionMethods\\LocationExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:51:35.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AttractionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\ExtensionMethods\\AttractionExtensions.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkPatterns\\ExtensionMethods\\AttractionExtensions.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\ExtensionMethods\\AttractionExtensions.cs",
+              "RelativeToolTip": "EntityFrameworkPatterns\\ExtensionMethods\\AttractionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:50:42.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\Program.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkPatterns\\Program.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\Program.cs",
+              "RelativeToolTip": "EntityFrameworkPatterns\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T10:05:11.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IThemeParkDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\DataContext\\IThemeParkDbContext.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkPatterns\\DataContext\\IThemeParkDbContext.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\DataContext\\IThemeParkDbContext.cs",
+              "RelativeToolTip": "EntityFrameworkPatterns\\DataContext\\IThemeParkDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:49:14.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ThemeParkDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\DataContext\\ThemeParkDbContext.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkPatterns\\DataContext\\ThemeParkDbContext.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\DataContext\\ThemeParkDbContext.cs",
+              "RelativeToolTip": "EntityFrameworkPatterns\\DataContext\\ThemeParkDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:49:03.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LocationConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\DataContext\\Models\\LocationConfiguration.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkPatterns\\DataContext\\Models\\LocationConfiguration.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\DataContext\\Models\\LocationConfiguration.cs",
+              "RelativeToolTip": "EntityFrameworkPatterns\\DataContext\\Models\\LocationConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:48:20.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\DataContext\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkPatterns\\DataContext\\Models\\Location.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\DataContext\\Models\\Location.cs",
+              "RelativeToolTip": "EntityFrameworkPatterns\\DataContext\\Models\\Location.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:46:44.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AttractionConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\DataContext\\Models\\AttractionConfiguration.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkPatterns\\DataContext\\Models\\AttractionConfiguration.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\DataContext\\Models\\AttractionConfiguration.cs",
+              "RelativeToolTip": "EntityFrameworkPatterns\\DataContext\\Models\\AttractionConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:45:47.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Attraction.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\DataContext\\Models\\Attraction.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkPatterns\\DataContext\\Models\\Attraction.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\DataContext\\Models\\Attraction.cs",
+              "RelativeToolTip": "EntityFrameworkPatterns\\DataContext\\Models\\Attraction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:44:57.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EntityFrameworkPatterns.csproj",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj",
+              "RelativeDocumentMoniker": "EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\EntityFrameworkPatterns\\EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj",
+              "RelativeToolTip": "EntityFrameworkPatterns\\EntityFrameworkPatterns.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-02T10:05:07.017Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\HttpClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3428010C-C2DC-4414-BF9A-E2CFCC8AADA8}|HttpClient\\HttpClient.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\httpclient\\httpclient\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3428010C-C2DC-4414-BF9A-E2CFCC8AADA8}|HttpClient\\HttpClient.csproj|solutionrelative:httpclient\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3428010C-C2DC-4414-BF9A-E2CFCC8AADA8}|HttpClient\\HttpClient.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\httpclient\\httpclient\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3428010C-C2DC-4414-BF9A-E2CFCC8AADA8}|HttpClient\\HttpClient.csproj|solutionrelative:httpclient\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3428010C-C2DC-4414-BF9A-E2CFCC8AADA8}|HttpClient\\HttpClient.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\httpclient\\httpclient\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3428010C-C2DC-4414-BF9A-E2CFCC8AADA8}|HttpClient\\HttpClient.csproj|solutionrelative:httpclient\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3428010C-C2DC-4414-BF9A-E2CFCC8AADA8}|HttpClient\\HttpClient.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\httpclient\\httpclient\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3428010C-C2DC-4414-BF9A-E2CFCC8AADA8}|HttpClient\\HttpClient.csproj|solutionrelative:httpclient\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3428010C-C2DC-4414-BF9A-E2CFCC8AADA8}|HttpClient\\HttpClient.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\httpclient\\httpclient\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3428010C-C2DC-4414-BF9A-E2CFCC8AADA8}|HttpClient\\HttpClient.csproj|solutionrelative:httpclient\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3428010C-C2DC-4414-BF9A-E2CFCC8AADA8}|HttpClient\\HttpClient.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\httpclient\\httpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3428010C-C2DC-4414-BF9A-E2CFCC8AADA8}|HttpClient\\HttpClient.csproj|solutionrelative:httpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\HttpClient\\HttpClient\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "HttpClient\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\HttpClient\\HttpClient\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "HttpClient\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:38:12.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\HttpClient\\HttpClient\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "HttpClient\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\HttpClient\\HttpClient\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "HttpClient\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T11:37:59.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\HttpClient\\HttpClient\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "HttpClient\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\HttpClient\\HttpClient\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "HttpClient\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T11:37:30.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\HttpClient\\HttpClient\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "HttpClient\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\HttpClient\\HttpClient\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "HttpClient\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:36:57.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\HttpClient\\HttpClient\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "HttpClient\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\HttpClient\\HttpClient\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "HttpClient\\Pages\\Error.cshtml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA2wAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:36:17.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\HttpClient\\HttpClient\\Program.cs",
+              "RelativeDocumentMoniker": "HttpClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\HttpClient\\HttpClient\\Program.cs",
+              "RelativeToolTip": "HttpClient\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:35:49.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

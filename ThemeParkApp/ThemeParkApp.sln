@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThemeParkApp", "ThemeParkApp\ThemeParkApp.csproj", "{D7560D15-CA84-461E-907A-2506FBF2CF2A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThemePark.Data", "ThemePark.Data\ThemePark.Data.csproj", "{6809DCDD-F581-4496-837E-82EFAFAD3E6D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThemePark.Services", "ThemePark.Services\ThemePark.Services.csproj", "{39692508-055D-47ED-BFAF-2F96EB173932}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThemePark.Tests", "ThemePark.Tests\ThemePark.Tests.csproj", "{9B90D606-BD76-4E67-97DC-74C91895872D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThemePark.Api.Tests", "ThemePark.Api.Tests\ThemePark.Api.Tests.csproj", "{72BF74F9-1C96-431E-84F7-D5F3CD1C06AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThemePark.Api", "ThemePark.Api\ThemePark.Api.csproj", "{C30CB0A8-0181-4D72-953F-6AEE81F62878}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7560D15-CA84-461E-907A-2506FBF2CF2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7560D15-CA84-461E-907A-2506FBF2CF2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7560D15-CA84-461E-907A-2506FBF2CF2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7560D15-CA84-461E-907A-2506FBF2CF2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6809DCDD-F581-4496-837E-82EFAFAD3E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6809DCDD-F581-4496-837E-82EFAFAD3E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6809DCDD-F581-4496-837E-82EFAFAD3E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6809DCDD-F581-4496-837E-82EFAFAD3E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39692508-055D-47ED-BFAF-2F96EB173932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39692508-055D-47ED-BFAF-2F96EB173932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39692508-055D-47ED-BFAF-2F96EB173932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39692508-055D-47ED-BFAF-2F96EB173932}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B90D606-BD76-4E67-97DC-74C91895872D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B90D606-BD76-4E67-97DC-74C91895872D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B90D606-BD76-4E67-97DC-74C91895872D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B90D606-BD76-4E67-97DC-74C91895872D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72BF74F9-1C96-431E-84F7-D5F3CD1C06AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72BF74F9-1C96-431E-84F7-D5F3CD1C06AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72BF74F9-1C96-431E-84F7-D5F3CD1C06AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72BF74F9-1C96-431E-84F7-D5F3CD1C06AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C30CB0A8-0181-4D72-953F-6AEE81F62878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C30CB0A8-0181-4D72-953F-6AEE81F62878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C30CB0A8-0181-4D72-953F-6AEE81F62878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C30CB0A8-0181-4D72-953F-6AEE81F62878}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B388EB1-87CD-480B-A467-E5E37B47351B}
+	EndGlobalSection
+EndGlobal

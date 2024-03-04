@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\EntityFrameworkThemePark.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\themepark\\themepark\\entityframeworkthemepark.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\EntityFrameworkThemePark.csproj|solutionrelative:themepark\\entityframeworkthemepark.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\themepark\\themepark\\datacontext\\models\\attraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|solutionrelative:themepark\\datacontext\\models\\attraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\themepark\\themepark\\services\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|solutionrelative:themepark\\services\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\themepark\\themepark\\services\\ilocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|solutionrelative:themepark\\services\\ilocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\themepark\\themepark\\services\\iattractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|solutionrelative:themepark\\services\\iattractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\themepark\\themepark\\services\\attractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|solutionrelative:themepark\\services\\attractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\themepark\\themepark\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|solutionrelative:themepark\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\themepark\\themepark\\pages\\locations.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|solutionrelative:themepark\\pages\\locations.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\themepark\\themepark\\pages\\location.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|solutionrelative:themepark\\pages\\location.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\themepark\\themepark\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|solutionrelative:themepark\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\themepark\\themepark\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|solutionrelative:themepark\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\themepark\\themepark\\extensions\\locationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|solutionrelative:themepark\\extensions\\locationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\themepark\\themepark\\extensions\\attractionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|solutionrelative:themepark\\extensions\\attractionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\themepark\\themepark\\datacontext\\ithemeparkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|solutionrelative:themepark\\datacontext\\ithemeparkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\themepark\\themepark\\datacontext\\themeparkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|solutionrelative:themepark\\datacontext\\themeparkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\themepark\\themepark\\dto\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|solutionrelative:themepark\\dto\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\themepark\\themepark\\datacontext\\partials\\attraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|solutionrelative:themepark\\datacontext\\partials\\attraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\themepark\\themepark\\datacontext\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|solutionrelative:themepark\\datacontext\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\themepark\\themepark\\datacontext\\configuration\\locationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|solutionrelative:themepark\\datacontext\\configuration\\locationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\themepark\\themepark\\datacontext\\configuration\\attractionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|solutionrelative:themepark\\datacontext\\configuration\\attractionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|c:\\users\\lauris\\desktop\\csharpprojects-7\\themepark\\themepark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91980C66-1446-428D-9ACC-242A616F81D5}|ThemePark\\ThemePark.csproj|solutionrelative:themepark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 280,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocationService.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\Services\\LocationService.cs",
+              "RelativeDocumentMoniker": "ThemePark\\Services\\LocationService.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\Services\\LocationService.cs",
+              "RelativeToolTip": "ThemePark\\Services\\LocationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T21:20:11.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILocationService.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\Services\\ILocationService.cs",
+              "RelativeDocumentMoniker": "ThemePark\\Services\\ILocationService.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\Services\\ILocationService.cs",
+              "RelativeToolTip": "ThemePark\\Services\\ILocationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T21:20:04.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAttractionService.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\Services\\IAttractionService.cs",
+              "RelativeDocumentMoniker": "ThemePark\\Services\\IAttractionService.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\Services\\IAttractionService.cs",
+              "RelativeToolTip": "ThemePark\\Services\\IAttractionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T21:20:01.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AttractionService.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\Services\\AttractionService.cs",
+              "RelativeDocumentMoniker": "ThemePark\\Services\\AttractionService.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\Services\\AttractionService.cs",
+              "RelativeToolTip": "ThemePark\\Services\\AttractionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T21:19:33.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "ThemePark\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "ThemePark\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T21:19:19.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Locations.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\Pages\\Locations.cshtml.cs",
+              "RelativeDocumentMoniker": "ThemePark\\Pages\\Locations.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\Pages\\Locations.cshtml.cs",
+              "RelativeToolTip": "ThemePark\\Pages\\Locations.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T21:19:05.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Location.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\Pages\\Location.cshtml.cs",
+              "RelativeDocumentMoniker": "ThemePark\\Pages\\Location.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\Pages\\Location.cshtml.cs",
+              "RelativeToolTip": "ThemePark\\Pages\\Location.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T21:18:56.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThemePark.csproj",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\EntityFrameworkThemePark.csproj",
+              "RelativeDocumentMoniker": "ThemePark\\EntityFrameworkThemePark.csproj",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\EntityFrameworkThemePark.csproj",
+              "RelativeToolTip": "ThemePark\\EntityFrameworkThemePark.csproj",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-02T13:00:08.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Attraction.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\DataContext\\Models\\Attraction.cs",
+              "RelativeDocumentMoniker": "ThemePark\\DataContext\\Models\\Attraction.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\DataContext\\Models\\Attraction.cs",
+              "RelativeToolTip": "ThemePark\\DataContext\\Models\\Attraction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T21:07:42.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ThemePark\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "ThemePark\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T21:18:42.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "ThemePark\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "ThemePark\\Pages\\Error.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T21:18:24.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LocationExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\Extensions\\LocationExtensions.cs",
+              "RelativeDocumentMoniker": "ThemePark\\Extensions\\LocationExtensions.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\Extensions\\LocationExtensions.cs",
+              "RelativeToolTip": "ThemePark\\Extensions\\LocationExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T21:16:48.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AttractionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\Extensions\\AttractionExtensions.cs",
+              "RelativeDocumentMoniker": "ThemePark\\Extensions\\AttractionExtensions.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\Extensions\\AttractionExtensions.cs",
+              "RelativeToolTip": "ThemePark\\Extensions\\AttractionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T21:13:35.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LocationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\Dto\\LocationDto.cs",
+              "RelativeDocumentMoniker": "ThemePark\\Dto\\LocationDto.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\Dto\\LocationDto.cs",
+              "RelativeToolTip": "ThemePark\\Dto\\LocationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T21:12:42.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Attraction.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\DataContext\\Partials\\Attraction.cs",
+              "RelativeDocumentMoniker": "ThemePark\\DataContext\\Partials\\Attraction.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\DataContext\\Partials\\Attraction.cs",
+              "RelativeToolTip": "ThemePark\\DataContext\\Partials\\Attraction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T21:11:01.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\DataContext\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "ThemePark\\DataContext\\Models\\Location.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\DataContext\\Models\\Location.cs",
+              "RelativeToolTip": "ThemePark\\DataContext\\Models\\Location.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T21:10:03.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LocationConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\DataContext\\Configuration\\LocationConfiguration.cs",
+              "RelativeDocumentMoniker": "ThemePark\\DataContext\\Configuration\\LocationConfiguration.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\DataContext\\Configuration\\LocationConfiguration.cs",
+              "RelativeToolTip": "ThemePark\\DataContext\\Configuration\\LocationConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T21:06:09.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ThemeParkDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\DataContext\\ThemeParkDbContext.cs",
+              "RelativeDocumentMoniker": "ThemePark\\DataContext\\ThemeParkDbContext.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\DataContext\\ThemeParkDbContext.cs",
+              "RelativeToolTip": "ThemePark\\DataContext\\ThemeParkDbContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwCIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T18:13:01.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IThemeParkDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\DataContext\\IThemeParkDbContext.cs",
+              "RelativeDocumentMoniker": "ThemePark\\DataContext\\IThemeParkDbContext.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\DataContext\\IThemeParkDbContext.cs",
+              "RelativeToolTip": "ThemePark\\DataContext\\IThemeParkDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T19:02:46.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AttractionConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\DataContext\\Configuration\\AttractionConfiguration.cs",
+              "RelativeDocumentMoniker": "ThemePark\\DataContext\\Configuration\\AttractionConfiguration.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\DataContext\\Configuration\\AttractionConfiguration.cs",
+              "RelativeToolTip": "ThemePark\\DataContext\\Configuration\\AttractionConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T19:15:28.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\Program.cs",
+              "RelativeDocumentMoniker": "ThemePark\\Program.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-7\\ThemePark\\ThemePark\\Program.cs",
+              "RelativeToolTip": "ThemePark\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T13:00:35.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

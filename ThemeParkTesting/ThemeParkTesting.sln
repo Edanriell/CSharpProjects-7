@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThemeParkTesting", "ThemeParkTesting\ThemeParkTesting.csproj", "{5BCC0440-01BF-4E12-97B6-1039A57F038C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThemePark.Tests", "ThemePark.Tests\ThemePark.Tests.csproj", "{2B07158D-75F7-4580-90C3-6ABCFD387B5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BCC0440-01BF-4E12-97B6-1039A57F038C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BCC0440-01BF-4E12-97B6-1039A57F038C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BCC0440-01BF-4E12-97B6-1039A57F038C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BCC0440-01BF-4E12-97B6-1039A57F038C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B07158D-75F7-4580-90C3-6ABCFD387B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B07158D-75F7-4580-90C3-6ABCFD387B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B07158D-75F7-4580-90C3-6ABCFD387B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B07158D-75F7-4580-90C3-6ABCFD387B5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89B05DF6-67A2-4BF9-89A2-AF7558548078}
+	EndGlobalSection
+EndGlobal
